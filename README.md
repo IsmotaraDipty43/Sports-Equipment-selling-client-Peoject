@@ -26,10 +26,10 @@ Check out the live version of the EquiSport app: [EquiSport Live Demo](https://e
 Follow these steps to set up and run the project on your local machine using **VS Code**.
 
 1️⃣ **Clone the Repository**  
-   git clone https://github.com/your-username/book-a-tutor.git  
+   git clone https://github.com/IsmotaraDipty43/Sports-Equipment-selling-client-Peoject.git 
 
 2️⃣ **Navigate to the Project Folder**  
-   cd   
+   cd EquiSport   
 
 3️⃣ **Open the Project in VS Code**  
    code .  
